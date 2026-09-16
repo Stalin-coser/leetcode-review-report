@@ -1,0 +1,4 @@
+interface:
+  display_name: "LeetCode 解法审查与报告"
+  short_description: "审查用户解法，确认正确后生成中文结题报告"
+  default_prompt: "使用 $leetcode-review-report 审查我提供的题号和代码，并在确认正确后生成中文结题报告。"
